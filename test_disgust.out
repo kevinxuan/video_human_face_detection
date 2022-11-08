@@ -1,0 +1,1729 @@
+nohup: ignoring input
+---------------------------------------
+
+-- Sample 0 -- 
+########## Processing Video test/Disgust/0111.avi ######### 
+video total frame number is: 46
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.784279584884644 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7289237976074219 seconds 
+
+---------------------------------------
+
+-- Sample 1 -- 
+########## Processing Video test/Disgust/0094.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.952987432479858 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6015093326568604 seconds 
+
+---------------------------------------
+
+-- Sample 2 -- 
+########## Processing Video test/Disgust/0103.avi ######### 
+video total frame number is: 46
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.023543357849121 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6444239616394043 seconds 
+
+---------------------------------------
+
+-- Sample 3 -- 
+########## Processing Video test/Disgust/0077.avi ######### 
+video total frame number is: 51
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 2.7148985862731934 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.2273294925689697 seconds 
+
+---------------------------------------
+
+-- Sample 4 -- 
+########## Processing Video test/Disgust/0080.avi ######### 
+video total frame number is: 492
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 72.28304243087769 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 6.605280637741089 seconds 
+
+---------------------------------------
+
+-- Sample 5 -- 
+########## Processing Video test/Disgust/0068.avi ######### 
+video total frame number is: 37
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.299186706542969 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5924785137176514 seconds 
+
+---------------------------------------
+
+-- Sample 6 -- 
+########## Processing Video test/Disgust/0006.avi ######### 
+video total frame number is: 79
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.230597734451294 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6167640686035156 seconds 
+
+---------------------------------------
+
+-- Sample 7 -- 
+########## Processing Video test/Disgust/0139.avi ######### 
+video total frame number is: 39
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.5344040393829346 seconds
+### No People Found in video 0139.avi, so this video is removed!!!
+---------------------------------------
+
+-- Sample 8 -- 
+########## Processing Video test/Disgust/0038.avi ######### 
+video total frame number is: 48
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.085705995559692 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6759908199310303 seconds 
+
+---------------------------------------
+
+-- Sample 9 -- 
+########## Processing Video test/Disgust/0011.avi ######### 
+video total frame number is: 77
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.33550238609314 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.143287181854248 seconds 
+
+---------------------------------------
+
+-- Sample 10 -- 
+########## Processing Video test/Disgust/0010.avi ######### 
+video total frame number is: 43
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.137326717376709 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6011991500854492 seconds 
+
+---------------------------------------
+
+-- Sample 11 -- 
+########## Processing Video test/Disgust/0086.avi ######### 
+video total frame number is: 101
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.625443458557129 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.350266456604004 seconds 
+
+---------------------------------------
+
+-- Sample 12 -- 
+########## Processing Video test/Disgust/0113.avi ######### 
+video total frame number is: 73
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.443577527999878 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0005555152893066 seconds 
+
+---------------------------------------
+
+-- Sample 13 -- 
+########## Processing Video test/Disgust/0118.avi ######### 
+video total frame number is: 148
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 12.99819540977478 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.261460304260254 seconds 
+
+---------------------------------------
+
+-- Sample 14 -- 
+########## Processing Video test/Disgust/0036.avi ######### 
+video total frame number is: 89
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.078794479370117 seconds
+### Number of people in video: 7 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.322521686553955 seconds 
+
+---------------------------------------
+
+-- Sample 15 -- 
+########## Processing Video test/Disgust/0031.avi ######### 
+video total frame number is: 39
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 0.8533833026885986 seconds
+### No People Found in video 0031.avi, so this video is removed!!!
+---------------------------------------
+
+-- Sample 16 -- 
+########## Processing Video test/Disgust/0093.avi ######### 
+video total frame number is: 51
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.938129186630249 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6471490859985352 seconds 
+
+---------------------------------------
+
+-- Sample 17 -- 
+########## Processing Video test/Disgust/0042.avi ######### 
+video total frame number is: 80
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.542617797851562 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1843769550323486 seconds 
+
+---------------------------------------
+
+-- Sample 18 -- 
+########## Processing Video test/Disgust/0007.avi ######### 
+video total frame number is: 70
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.32233214378357 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1441318988800049 seconds 
+
+---------------------------------------
+
+-- Sample 19 -- 
+########## Processing Video test/Disgust/0141.avi ######### 
+video total frame number is: 75
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.089113235473633 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9851059913635254 seconds 
+
+---------------------------------------
+
+-- Sample 20 -- 
+########## Processing Video test/Disgust/0096.avi ######### 
+video total frame number is: 102
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 14.28296184539795 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3004093170166016 seconds 
+
+---------------------------------------
+
+-- Sample 21 -- 
+########## Processing Video test/Disgust/0053.avi ######### 
+video total frame number is: 75
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.8646950721740723 seconds
+### No People Found in video 0053.avi, so this video is removed!!!
+---------------------------------------
+
+-- Sample 22 -- 
+########## Processing Video test/Disgust/0049.avi ######### 
+video total frame number is: 163
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 13.795450925827026 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.211547374725342 seconds 
+
+---------------------------------------
+
+-- Sample 23 -- 
+########## Processing Video test/Disgust/0075.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.8886663913726807 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.47308993339538574 seconds 
+
+---------------------------------------
+
+-- Sample 24 -- 
+########## Processing Video test/Disgust/0129.avi ######### 
+video total frame number is: 137
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 20.07918405532837 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.7739975452423096 seconds 
+
+---------------------------------------
+
+-- Sample 25 -- 
+########## Processing Video test/Disgust/0065.avi ######### 
+video total frame number is: 170
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 20.284319400787354 seconds
+### Number of people in video: 10 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.3355393409729004 seconds 
+
+---------------------------------------
+
+-- Sample 26 -- 
+########## Processing Video test/Disgust/0018.avi ######### 
+video total frame number is: 108
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 13.956402778625488 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6995658874511719 seconds 
+
+---------------------------------------
+
+-- Sample 27 -- 
+########## Processing Video test/Disgust/0012.avi ######### 
+video total frame number is: 57
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.029616355895996 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.246370792388916 seconds 
+
+---------------------------------------
+
+-- Sample 28 -- 
+########## Processing Video test/Disgust/0024.avi ######### 
+video total frame number is: 49
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.187786340713501 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7695047855377197 seconds 
+
+---------------------------------------
+
+-- Sample 29 -- 
+########## Processing Video test/Disgust/0019.avi ######### 
+video total frame number is: 53
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.423047780990601 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7860522270202637 seconds 
+
+---------------------------------------
+
+-- Sample 30 -- 
+########## Processing Video test/Disgust/0085.avi ######### 
+video total frame number is: 63
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.631200551986694 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8378415107727051 seconds 
+
+---------------------------------------
+
+-- Sample 31 -- 
+########## Processing Video test/Disgust/0015.avi ######### 
+video total frame number is: 71
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.15386700630188 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.080754041671753 seconds 
+
+---------------------------------------
+
+-- Sample 32 -- 
+########## Processing Video test/Disgust/0029.avi ######### 
+video total frame number is: 75
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.683863162994385 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0255255699157715 seconds 
+
+---------------------------------------
+
+-- Sample 33 -- 
+########## Processing Video test/Disgust/0105.avi ######### 
+video total frame number is: 61
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.587197303771973 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7806932926177979 seconds 
+
+---------------------------------------
+
+-- Sample 34 -- 
+########## Processing Video test/Disgust/0045.avi ######### 
+video total frame number is: 78
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.402444124221802 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1004040241241455 seconds 
+
+---------------------------------------
+
+-- Sample 35 -- 
+########## Processing Video test/Disgust/0140.avi ######### 
+video total frame number is: 38
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 2.987605094909668 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.4851994514465332 seconds 
+
+---------------------------------------
+
+-- Sample 36 -- 
+########## Processing Video test/Disgust/0133.avi ######### 
+video total frame number is: 138
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.42337942123413 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.5417888164520264 seconds 
+
+---------------------------------------
+
+-- Sample 37 -- 
+########## Processing Video test/Disgust/0061.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.4130377769470215 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5486462116241455 seconds 
+
+---------------------------------------
+
+-- Sample 38 -- 
+########## Processing Video test/Disgust/0126.avi ######### 
+video total frame number is: 83
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.539745569229126 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1689026355743408 seconds 
+
+---------------------------------------
+
+-- Sample 39 -- 
+########## Processing Video test/Disgust/0098.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 3.1305954456329346 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6407897472381592 seconds 
+
+---------------------------------------
+
+-- Sample 40 -- 
+########## Processing Video test/Disgust/0073.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.1419336795806885 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5094711780548096 seconds 
+
+---------------------------------------
+
+-- Sample 41 -- 
+########## Processing Video test/Disgust/0055.avi ######### 
+video total frame number is: 109
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.7393107414245605 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3739855289459229 seconds 
+
+---------------------------------------
+
+-- Sample 42 -- 
+########## Processing Video test/Disgust/0121.avi ######### 
+video total frame number is: 87
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 13.026823997497559 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1325857639312744 seconds 
+
+---------------------------------------
+
+-- Sample 43 -- 
+########## Processing Video test/Disgust/0054.avi ######### 
+video total frame number is: 226
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 22.832943201065063 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.927267074584961 seconds 
+
+---------------------------------------
+
+-- Sample 44 -- 
+########## Processing Video test/Disgust/0125.avi ######### 
+video total frame number is: 158
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 20.994720220565796 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.5939364433288574 seconds 
+
+---------------------------------------
+
+-- Sample 45 -- 
+########## Processing Video test/Disgust/0067.avi ######### 
+video total frame number is: 61
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.2569966316223145 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8291387557983398 seconds 
+
+---------------------------------------
+
+-- Sample 46 -- 
+########## Processing Video test/Disgust/0034.avi ######### 
+video total frame number is: 131
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 15.057082414627075 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.2505943775177 seconds 
+
+---------------------------------------
+
+-- Sample 47 -- 
+########## Processing Video test/Disgust/0001.avi ######### 
+video total frame number is: 93
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.160118818283081 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3633456230163574 seconds 
+
+---------------------------------------
+
+-- Sample 48 -- 
+########## Processing Video test/Disgust/0100.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.009188175201416 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6655621528625488 seconds 
+
+---------------------------------------
+
+-- Sample 49 -- 
+########## Processing Video test/Disgust/0035.avi ######### 
+video total frame number is: 53
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.459103107452393 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7631814479827881 seconds 
+
+---------------------------------------
+
+-- Sample 50 -- 
+########## Processing Video test/Disgust/0048.avi ######### 
+video total frame number is: 37
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 3.107274293899536 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5235159397125244 seconds 
+
+---------------------------------------
+
+-- Sample 51 -- 
+########## Processing Video test/Disgust/0143.avi ######### 
+video total frame number is: 56
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.666067838668823 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7705779075622559 seconds 
+
+---------------------------------------
+
+-- Sample 52 -- 
+########## Processing Video test/Disgust/0051.avi ######### 
+video total frame number is: 53
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.928950786590576 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6888167858123779 seconds 
+
+---------------------------------------
+
+-- Sample 53 -- 
+########## Processing Video test/Disgust/0060.avi ######### 
+video total frame number is: 49
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.557075500488281 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6449494361877441 seconds 
+
+---------------------------------------
+
+-- Sample 54 -- 
+########## Processing Video test/Disgust/0021.avi ######### 
+video total frame number is: 113
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 15.166138172149658 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.7642722129821777 seconds 
+
+---------------------------------------
+
+-- Sample 55 -- 
+########## Processing Video test/Disgust/0084.avi ######### 
+video total frame number is: 68
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.640201091766357 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9152488708496094 seconds 
+
+---------------------------------------
+
+-- Sample 56 -- 
+########## Processing Video test/Disgust/0033.avi ######### 
+video total frame number is: 147
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 17.405632495880127 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.054694175720215 seconds 
+
+---------------------------------------
+
+-- Sample 57 -- 
+########## Processing Video test/Disgust/0013.avi ######### 
+video total frame number is: 91
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.246685028076172 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.2857048511505127 seconds 
+
+---------------------------------------
+
+-- Sample 58 -- 
+########## Processing Video test/Disgust/0087.avi ######### 
+video total frame number is: 43
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 2.3669028282165527 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5937552452087402 seconds 
+
+---------------------------------------
+
+-- Sample 59 -- 
+########## Processing Video test/Disgust/0037.avi ######### 
+video total frame number is: 46
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.296320676803589 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8899135589599609 seconds 
+
+---------------------------------------
+
+-- Sample 60 -- 
+########## Processing Video test/Disgust/0041.avi ######### 
+video total frame number is: 62
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.512994050979614 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9687330722808838 seconds 
+
+---------------------------------------
+
+-- Sample 61 -- 
+########## Processing Video test/Disgust/0132.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.0506858825683594 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.4979727268218994 seconds 
+
+---------------------------------------
+
+-- Sample 62 -- 
+########## Processing Video test/Disgust/0008.avi ######### 
+video total frame number is: 188
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 22.761436462402344 seconds
+### Number of people in video: 6 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.7996020317077637 seconds 
+
+---------------------------------------
+
+-- Sample 63 -- 
+########## Processing Video test/Disgust/0030.avi ######### 
+video total frame number is: 53
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.38343071937561 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7669670581817627 seconds 
+
+---------------------------------------
+
+-- Sample 64 -- 
+########## Processing Video test/Disgust/0050.avi ######### 
+video total frame number is: 81
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.905801773071289 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0495479106903076 seconds 
+
+---------------------------------------
+
+-- Sample 65 -- 
+########## Processing Video test/Disgust/0115.avi ######### 
+video total frame number is: 101
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 13.68660283088684 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3036940097808838 seconds 
+
+---------------------------------------
+
+-- Sample 66 -- 
+########## Processing Video test/Disgust/0079.avi ######### 
+video total frame number is: 79
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.459754943847656 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0568790435791016 seconds 
+
+---------------------------------------
+
+-- Sample 67 -- 
+########## Processing Video test/Disgust/0044.avi ######### 
+video total frame number is: 78
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.391386032104492 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1012094020843506 seconds 
+
+---------------------------------------
+
+-- Sample 68 -- 
+########## Processing Video test/Disgust/0122.avi ######### 
+video total frame number is: 125
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 15.36020040512085 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6253230571746826 seconds 
+
+---------------------------------------
+
+-- Sample 69 -- 
+########## Processing Video test/Disgust/0014.avi ######### 
+video total frame number is: 85
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.31370759010315 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.2196738719940186 seconds 
+
+---------------------------------------
+
+-- Sample 70 -- 
+########## Processing Video test/Disgust/0016.avi ######### 
+video total frame number is: 50
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.614762306213379 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7752106189727783 seconds 
+
+---------------------------------------
+
+-- Sample 71 -- 
+########## Processing Video test/Disgust/0009.avi ######### 
+video total frame number is: 66
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.057695388793945 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.328587532043457 seconds 
+
+---------------------------------------
+
+-- Sample 72 -- 
+########## Processing Video test/Disgust/0017.avi ######### 
+video total frame number is: 45
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.508301496505737 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6971430778503418 seconds 
+
+---------------------------------------
+
+-- Sample 73 -- 
+########## Processing Video test/Disgust/0004.avi ######### 
+video total frame number is: 49
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.711289167404175 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7534873485565186 seconds 
+
+---------------------------------------
+
+-- Sample 74 -- 
+########## Processing Video test/Disgust/0047.avi ######### 
+video total frame number is: 41
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.1225218772888184 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5889904499053955 seconds 
+
+---------------------------------------
+
+-- Sample 75 -- 
+########## Processing Video test/Disgust/0090.avi ######### 
+video total frame number is: 72
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.662989377975464 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9747424125671387 seconds 
+
+---------------------------------------
+
+-- Sample 76 -- 
+########## Processing Video test/Disgust/0027.avi ######### 
+video total frame number is: 55
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.043114423751831 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.854717493057251 seconds 
+
+---------------------------------------
+
+-- Sample 77 -- 
+########## Processing Video test/Disgust/0138.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.408149480819702 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6851928234100342 seconds 
+
+---------------------------------------
+
+-- Sample 78 -- 
+########## Processing Video test/Disgust/0117.avi ######### 
+video total frame number is: 50
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.62864089012146 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6947801113128662 seconds 
+
+---------------------------------------
+
+-- Sample 79 -- 
+########## Processing Video test/Disgust/0131.avi ######### 
+video total frame number is: 219
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 30.51808786392212 seconds
+### Number of people in video: 6 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 3.4140689373016357 seconds 
+
+---------------------------------------
+
+-- Sample 80 -- 
+########## Processing Video test/Disgust/0106.avi ######### 
+video total frame number is: 79
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.107403039932251 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3571689128875732 seconds 
+
+---------------------------------------
+
+-- Sample 81 -- 
+########## Processing Video test/Disgust/0099.avi ######### 
+video total frame number is: 153
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 20.758882999420166 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.3099052906036377 seconds 
+
+---------------------------------------
+
+-- Sample 82 -- 
+########## Processing Video test/Disgust/0097.avi ######### 
+video total frame number is: 221
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 19.99968433380127 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 3.410215377807617 seconds 
+
+---------------------------------------
+
+-- Sample 83 -- 
+########## Processing Video test/Disgust/0123.avi ######### 
+video total frame number is: 82
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.177139282226562 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1146974563598633 seconds 
+
+---------------------------------------
+
+-- Sample 84 -- 
+########## Processing Video test/Disgust/0078.avi ######### 
+video total frame number is: 50
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 2.5317111015319824 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6960611343383789 seconds 
+
+---------------------------------------
+
+-- Sample 85 -- 
+########## Processing Video test/Disgust/0046.avi ######### 
+video total frame number is: 66
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.801934242248535 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8794963359832764 seconds 
+
+---------------------------------------
+
+-- Sample 86 -- 
+########## Processing Video test/Disgust/0074.avi ######### 
+video total frame number is: 36
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.108182430267334 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.4771137237548828 seconds 
+
+---------------------------------------
+
+-- Sample 87 -- 
+########## Processing Video test/Disgust/0020.avi ######### 
+video total frame number is: 60
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.495534420013428 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8405003547668457 seconds 
+
+---------------------------------------
+
+-- Sample 88 -- 
+########## Processing Video test/Disgust/0025.avi ######### 
+video total frame number is: 159
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 16.321696043014526 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.2628159523010254 seconds 
+
+---------------------------------------
+
+-- Sample 89 -- 
+########## Processing Video test/Disgust/0062.avi ######### 
+video total frame number is: 61
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.1642091274261475 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8177928924560547 seconds 
+
+---------------------------------------
+
+-- Sample 90 -- 
+########## Processing Video test/Disgust/0144.avi ######### 
+video total frame number is: 46
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.6724114418029785 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6407244205474854 seconds 
+
+---------------------------------------
+
+-- Sample 91 -- 
+########## Processing Video test/Disgust/0089.avi ######### 
+video total frame number is: 182
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 24.47741174697876 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.4400084018707275 seconds 
+
+---------------------------------------
+
+-- Sample 92 -- 
+########## Processing Video test/Disgust/0110.avi ######### 
+video total frame number is: 127
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 17.567835330963135 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.5974469184875488 seconds 
+
+---------------------------------------
+
+-- Sample 93 -- 
+########## Processing Video test/Disgust/0071.avi ######### 
+video total frame number is: 100
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 12.101003408432007 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.2474453449249268 seconds 
+
+---------------------------------------
+
+-- Sample 94 -- 
+########## Processing Video test/Disgust/0023.avi ######### 
+video total frame number is: 132
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 18.271604776382446 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.05523943901062 seconds 
+
+---------------------------------------
+
+-- Sample 95 -- 
+########## Processing Video test/Disgust/0127.avi ######### 
+video total frame number is: 52
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.596163034439087 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6753442287445068 seconds 
+
+---------------------------------------
+
+-- Sample 96 -- 
+########## Processing Video test/Disgust/0064.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.651276350021362 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5083761215209961 seconds 
+
+---------------------------------------
+
+-- Sample 97 -- 
+########## Processing Video test/Disgust/0091.avi ######### 
+video total frame number is: 113
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 14.093999862670898 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.0173592567443848 seconds 
+
+---------------------------------------
+
+-- Sample 98 -- 
+########## Processing Video test/Disgust/0026.avi ######### 
+video total frame number is: 45
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.745006322860718 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6809267997741699 seconds 
+
+---------------------------------------
+
+-- Sample 99 -- 
+########## Processing Video test/Disgust/0052.avi ######### 
+video total frame number is: 166
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 18.989154815673828 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.1429855823516846 seconds 
+
+---------------------------------------
+
+-- Sample 100 -- 
+########## Processing Video test/Disgust/0058.avi ######### 
+video total frame number is: 118
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 13.92614221572876 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6990346908569336 seconds 
+
+---------------------------------------
+
+-- Sample 101 -- 
+########## Processing Video test/Disgust/0137.avi ######### 
+video total frame number is: 53
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.54787802696228 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6949470043182373 seconds 
+
+---------------------------------------
+
+-- Sample 102 -- 
+########## Processing Video test/Disgust/0095.avi ######### 
+video total frame number is: 57
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.118725061416626 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0402171611785889 seconds 
+
+---------------------------------------
+
+-- Sample 103 -- 
+########## Processing Video test/Disgust/0134.avi ######### 
+video total frame number is: 55
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.803537845611572 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7308731079101562 seconds 
+
+---------------------------------------
+
+-- Sample 104 -- 
+########## Processing Video test/Disgust/0063.avi ######### 
+video total frame number is: 88
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.199525833129883 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6444623470306396 seconds 
+
+---------------------------------------
+
+-- Sample 105 -- 
+########## Processing Video test/Disgust/0130.avi ######### 
+video total frame number is: 112
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.841144561767578 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.4581012725830078 seconds 
+
+---------------------------------------
+
+-- Sample 106 -- 
+########## Processing Video test/Disgust/0108.avi ######### 
+video total frame number is: 54
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.13915753364563 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0214247703552246 seconds 
+
+---------------------------------------
+
+-- Sample 107 -- 
+########## Processing Video test/Disgust/0112.avi ######### 
+video total frame number is: 86
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 11.564486026763916 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.14888596534729 seconds 
+
+---------------------------------------
+
+-- Sample 108 -- 
+########## Processing Video test/Disgust/0003.avi ######### 
+video total frame number is: 130
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 15.369828701019287 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.8914878368377686 seconds 
+
+---------------------------------------
+
+-- Sample 109 -- 
+########## Processing Video test/Disgust/0066.avi ######### 
+video total frame number is: 191
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 18.467068672180176 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 2.605337381362915 seconds 
+
+---------------------------------------
+
+-- Sample 110 -- 
+########## Processing Video test/Disgust/0107.avi ######### 
+video total frame number is: 67
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 10.404782772064209 seconds
+### Number of people in video: 5 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0233452320098877 seconds 
+
+---------------------------------------
+
+-- Sample 111 -- 
+########## Processing Video test/Disgust/0083.avi ######### 
+video total frame number is: 35
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.3777077198028564 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.47681522369384766 seconds 
+
+---------------------------------------
+
+-- Sample 112 -- 
+########## Processing Video test/Disgust/0040.avi ######### 
+video total frame number is: 47
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.003730535507202 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7310488224029541 seconds 
+
+---------------------------------------
+
+-- Sample 113 -- 
+########## Processing Video test/Disgust/0109.avi ######### 
+video total frame number is: 151
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 20.102261066436768 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.9325199127197266 seconds 
+
+---------------------------------------
+
+-- Sample 114 -- 
+########## Processing Video test/Disgust/0039.avi ######### 
+video total frame number is: 43
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.079133033752441 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6215252876281738 seconds 
+
+---------------------------------------
+
+-- Sample 115 -- 
+########## Processing Video test/Disgust/0028.avi ######### 
+video total frame number is: 68
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.631385326385498 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9498376846313477 seconds 
+
+---------------------------------------
+
+-- Sample 116 -- 
+########## Processing Video test/Disgust/0088.avi ######### 
+video total frame number is: 54
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.753815650939941 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.971160888671875 seconds 
+
+---------------------------------------
+
+-- Sample 117 -- 
+########## Processing Video test/Disgust/0124.avi ######### 
+video total frame number is: 88
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.145104885101318 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1463322639465332 seconds 
+
+---------------------------------------
+
+-- Sample 118 -- 
+########## Processing Video test/Disgust/0043.avi ######### 
+video total frame number is: 68
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.705933094024658 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.3668429851531982 seconds 
+
+---------------------------------------
+
+-- Sample 119 -- 
+########## Processing Video test/Disgust/0057.avi ######### 
+video total frame number is: 41
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 1.4480032920837402 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5683481693267822 seconds 
+
+---------------------------------------
+
+-- Sample 120 -- 
+########## Processing Video test/Disgust/0135.avi ######### 
+video total frame number is: 38
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.035979270935059 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5271124839782715 seconds 
+
+---------------------------------------
+
+-- Sample 121 -- 
+########## Processing Video test/Disgust/0002.avi ######### 
+video total frame number is: 65
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.11996340751648 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.2873337268829346 seconds 
+
+---------------------------------------
+
+-- Sample 122 -- 
+########## Processing Video test/Disgust/0072.avi ######### 
+video total frame number is: 55
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.985574722290039 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7653887271881104 seconds 
+
+---------------------------------------
+
+-- Sample 123 -- 
+########## Processing Video test/Disgust/0032.avi ######### 
+video total frame number is: 38
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.154387474060059 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5927162170410156 seconds 
+
+---------------------------------------
+
+-- Sample 124 -- 
+########## Processing Video test/Disgust/0082.avi ######### 
+video total frame number is: 251
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 35.72495698928833 seconds
+### Number of people in video: 8 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 3.730710983276367 seconds 
+
+---------------------------------------
+
+-- Sample 125 -- 
+########## Processing Video test/Disgust/0070.avi ######### 
+video total frame number is: 81
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.5157084465026855 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0901074409484863 seconds 
+
+---------------------------------------
+
+-- Sample 126 -- 
+########## Processing Video test/Disgust/0056.avi ######### 
+video total frame number is: 104
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 12.162410497665405 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.4254510402679443 seconds 
+
+---------------------------------------
+
+-- Sample 127 -- 
+########## Processing Video test/Disgust/0116.avi ######### 
+video total frame number is: 49
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.494028329849243 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8808507919311523 seconds 
+
+---------------------------------------
+
+-- Sample 128 -- 
+########## Processing Video test/Disgust/0128.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.759235143661499 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5193250179290771 seconds 
+
+---------------------------------------
+
+-- Sample 129 -- 
+########## Processing Video test/Disgust/0136.avi ######### 
+video total frame number is: 66
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.919396162033081 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9549160003662109 seconds 
+
+---------------------------------------
+
+-- Sample 130 -- 
+########## Processing Video test/Disgust/0104.avi ######### 
+video total frame number is: 54
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 8.26252031326294 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7663650512695312 seconds 
+
+---------------------------------------
+
+-- Sample 131 -- 
+########## Processing Video test/Disgust/0102.avi ######### 
+video total frame number is: 40
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.5606689453125 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5562424659729004 seconds 
+
+---------------------------------------
+
+-- Sample 132 -- 
+########## Processing Video test/Disgust/0076.avi ######### 
+video total frame number is: 84
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 12.014347314834595 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1629457473754883 seconds 
+
+---------------------------------------
+
+-- Sample 133 -- 
+########## Processing Video test/Disgust/0101.avi ######### 
+video total frame number is: 56
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.998135805130005 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.7207751274108887 seconds 
+
+---------------------------------------
+
+-- Sample 134 -- 
+########## Processing Video test/Disgust/0005.avi ######### 
+video total frame number is: 48
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.019814968109131 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9764261245727539 seconds 
+
+---------------------------------------
+
+-- Sample 135 -- 
+########## Processing Video test/Disgust/0059.avi ######### 
+video total frame number is: 44
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.174395799636841 seconds
+### Number of people in video: 1 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5614700317382812 seconds 
+
+---------------------------------------
+
+-- Sample 136 -- 
+########## Processing Video test/Disgust/0142.avi ######### 
+video total frame number is: 87
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 6.435895919799805 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.1153194904327393 seconds 
+
+---------------------------------------
+
+-- Sample 137 -- 
+########## Processing Video test/Disgust/0092.avi ######### 
+video total frame number is: 129
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 18.15467071533203 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.6597254276275635 seconds 
+
+---------------------------------------
+
+-- Sample 138 -- 
+########## Processing Video test/Disgust/0081.avi ######### 
+video total frame number is: 60
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 9.634268999099731 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.8532872200012207 seconds 
+
+---------------------------------------
+
+-- Sample 139 -- 
+########## Processing Video test/Disgust/0119.avi ######### 
+video total frame number is: 43
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.938178777694702 seconds
+### Number of people in video: 7 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.5901839733123779 seconds 
+
+---------------------------------------
+
+-- Sample 140 -- 
+########## Processing Video test/Disgust/0069.avi ######### 
+video total frame number is: 112
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.242682933807373 seconds
+### Number of people in video: 4 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.4754891395568848 seconds 
+
+---------------------------------------
+
+-- Sample 141 -- 
+########## Processing Video test/Disgust/0120.avi ######### 
+video total frame number is: 38
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.947217226028442 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.4930379390716553 seconds 
+
+---------------------------------------
+
+-- Sample 142 -- 
+########## Processing Video test/Disgust/0022.avi ######### 
+video total frame number is: 70
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 7.608264684677124 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 1.0508503913879395 seconds 
+
+---------------------------------------
+
+-- Sample 143 -- 
+########## Processing Video test/Disgust/0145.avi ######### 
+video total frame number is: 49
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 4.978598117828369 seconds
+### Number of people in video: 2 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.6711571216583252 seconds 
+
+---------------------------------------
+
+-- Sample 144 -- 
+########## Processing Video test/Disgust/0114.avi ######### 
+video total frame number is: 71
+# Start Human Detection, Tracking, and Emotion Estimation
+#### Human Detection, Tracking and Pose Time: 5.042294025421143 seconds
+### Number of people in video: 3 !!!
+# Start Face Detection
+device: 0
+#### Face Detection Time: 0.9878227710723877 seconds 
+
