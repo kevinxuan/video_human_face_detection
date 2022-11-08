@@ -9,7 +9,7 @@ Given a video, this code utilizes **yolov5** human detection to obtain the coord
 #### Input
 The input of this code is a list of video files that we want to run our human & face detection on.
 
-Example: ['data/0001.avi','data/0002.avi']
+Example: ['test/Disgust/0001.avi','test/Disgust/0002.avi']
 
 #### Output
 The output of this code is a dictionary containing the human detection & human face rectangular box coordinates of every video file input.
@@ -21,4 +21,4 @@ Example: {'/test/Disgust/0001.avi' : {'human': {person1:[[0,0,1,1],...],
                                           frame2:{...}
                                           }
                                 },
-     '/test/Disgust/0002.avi': {...},
+     '/test/Disgust/0002.avi': {...},...}
